@@ -1,12 +1,25 @@
 # task_app
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
+##Overview
+This project is a Flutter application that leverages the Flutter Version Management (FVM) tool to manage different Flutter SDK versions. The application includes authentication for user login and integrates with a custom API for various functionalities. The project structure and code have been continuously improved over time to ensure maintainability and scalability.
 
-This project is a starting point for a Flutter application.
+Table of Contents
+Version Information
+Features
+Getting Started
+Authentication
+API Integration
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Version Management (FVM):  3.24.1
+Flutter SDK:  3.24.1
+Features
+User authentication for login
+Integration with a custom API
+Improved project structure and codebase
+Continuous improvements and updates
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
