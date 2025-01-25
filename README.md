@@ -16,7 +16,7 @@ Steps to Run the Application
 Clone the Repository:
 Open your terminal and run the following command to clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/muhammadarshad786/Taskfor.git
 cd your-repo-name
 Set the Flutter SDK Version Using FVM:
 fvm install
