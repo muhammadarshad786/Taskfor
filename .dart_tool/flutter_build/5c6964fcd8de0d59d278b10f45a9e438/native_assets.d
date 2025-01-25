@@ -1,0 +1,1 @@
+ /home/webdeveloper-wayoutlab/Downloads/Task/task_app/.dart_tool/flutter_build/5c6964fcd8de0d59d278b10f45a9e438/native_assets.yaml: 
